@@ -6,6 +6,7 @@ const MoonIcon= ({fill="#fff", ...props})=>{
             width="26" 
             height="26" 
             fill={fill}
+
             >
                 <path  
                 fillRule="evenodd" 
